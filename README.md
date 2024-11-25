@@ -28,8 +28,8 @@ Welcome to my GitHub! I'm a passionate software engineer specializing in mobile 
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jasim-BinUmar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasim-BinUmar&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayesha786shamim&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha786shamim&layout=compact&theme=radical)  
 
 ---
 
