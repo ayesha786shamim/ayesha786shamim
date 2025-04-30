@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a passionate software engineer specializing in mobile 
 ---
 
 ## 📫 Let's Connect!  
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ayesha-shamim-1b2415323/)  
-- **Email:** [your.email@example.com](ayeshashamim.011@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/ayesha-shamim-1b2415323/]
+- **Email:** [ayeshashamim.011@gmail.com] 
 
 Thanks for stopping by! Let's collaborate and create amazing projects together. 🚀
