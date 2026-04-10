@@ -1,38 +1,72 @@
-# 🌟 Ayesha - Software Engineer  
+# Ayesha Shamim | Software Engineer
 
-Welcome to my GitHub! I'm a passionate software engineer specializing in mobile and web application development. I enjoy building innovative solutions and writing clean, scalable code.  
-
-## 🚀 Skills & Technologies  
-
-### Programming Languages  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
-
-### Mobile Development  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-
-### Web Development  
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-
-
-### Tools & Platforms  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+A Software Engineer specializing in full-stack web development, mobile application development, and AI-integrated systems. Focused on designing scalable, maintainable, and high-performance software solutions using modern development practices.
 
 ---
 
-## 📈 GitHub Stats  
+## Professional Profile
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayesha786shamim&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha786shamim&layout=compact&theme=radical)  
+A detail-oriented Software Engineer with a strong foundation in software development. I specialize in building end-to-end applications across web, mobile, and artificial intelligence domains.
+
+My approach emphasizes:
+- Clean and maintainable code architecture
+- Scalable system design
+- Performance optimization
+- User-centric product development
+- Integration of intelligent systems into applications
+
+I am continuously focused on strengthening my expertise in software engineering, system design, and AI-driven application development.
 
 ---
 
-## 📫 Let's Connect!  
-- **LinkedIn:** [https://www.linkedin.com/in/ayesha-shamim-1b2415323/]
-- **Email:** [ayeshashamim.011@gmail.com] 
+## Core Technical Competencies
 
-Thanks for stopping by! Let's collaborate and create amazing projects together. 🚀
+### Programming Languages
+C++ • Java • JavaScript • TypeScript • C#
+
+### Full Stack Development
+React.js • Next.js • Node.js • HTML5 • CSS3 • Tailwind CSS • REST APIs
+
+### Mobile Application Development
+React Native • Android Development (Java, Android Studio)
+
+### Artificial Intelligence & Machine Learning
+Deep Learning • Computer Vision • Convolutional Neural Networks (CNNs)  
+Vision Transformers (ViT) • Model Training & Optimization  
+AI API Integration (including OpenAI-based systems)
+
+### Tools & Development Environment
+Git • GitHub • Figma • Jira • API Development & Integration
+
+---
+
+## Engineering Focus
+
+- Full Stack Web Application Development  
+- Cross-Platform Mobile Application Development  
+- AI-Enabled Software Systems  
+- Scalable Backend Integration  
+- Interactive UI/UX Engineering  
+- System Optimization & Performance Tuning  
+
+---
+
+## Technical Interests
+
+- Software Architecture & Design Patterns  
+- Scalable Web Systems  
+- AI-powered Applications  
+- Computer Vision Systems  
+- Modern Frontend Engineering  
+- Mobile-first Application Design  
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/ayesha-shamim-1b2415323
+- Upwork: https://www.upwork.com/freelancers/~013feae55c8a696e69?mp_source=share 
+- Email: ayeshashamim.011@gmail.com  
+- GitHub: https://github.com/ayesha786shamim  
+
+ 
